@@ -1,7 +1,6 @@
 # Projektni zadatak za predmet Uvod u teorijsko racunalstvo
 
-#### Autor: Mateo Trakostanec 
-#### [github]()
+#### Autor: [Mateo Trakostanec](https://github.com/AceTep/UTR-parsiranje)
 
 
 ___
